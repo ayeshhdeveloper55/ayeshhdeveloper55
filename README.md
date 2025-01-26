@@ -32,6 +32,15 @@ I am a passionate **Full-Stack Developer** currently training at **SMIT**. I lov
 
 ---
 
+## 🌟 Certificates1.
+Information Technology (IT) Certification
+<br>
+HTML5 Certification
+<br>
+CSS3 Certification
+<br>
+Teaching Best PERformance
+
 ## 🌟 Projects
 1. **Portfolio Website**  
    A responsive and interactive portfolio showcasing my work.  
