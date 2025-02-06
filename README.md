@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Ayesha Asghar  
+[![Ayesha Asghar Banner](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/Images/banner.png)](https://github.com/ayeshhdeveloper55)
 
-![Banner]([./White%20Minimalist%20Profile%20LinkedIn%20Banner.png](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/commit/94134df6d9bba55b5ff801b50e940c8b653678d6))
+
 
 I am a passionate **Full-Stack Developer** currently training at **SMIT**. I love building web applications, solving complex problems, and learning new technologies. 🚀
 
