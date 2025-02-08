@@ -47,7 +47,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 ![CSS Selector Quiz Certificate](IMG-20250117-WA0023.jpg)
 
 ### 🏆 Certificate of Completion - Information Technology (Creative-IT)
-![IT Certificate](WhatsApp Image 2025-01-26 at 15.26.11_cc48c9d9.jpg)
+![IT Certificate]
 
 ---
 
