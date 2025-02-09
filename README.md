@@ -58,7 +58,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 
 
 2.## 📄 Resume📄 **
-🔗 **[Download My Resume](https://ayeshhdeveloper55.github.io/MY-Personal-Resume/)**
+🔗 **[Download My Resume](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/49157e7750bca773c78f824ee1b1859f16c54cf7/cvpic.PNG)**
 
 
 ⭐️ _“Always learning, always growing!”_
