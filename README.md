@@ -54,7 +54,8 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 
 ## 🌟 Projects
 1. **Portfolio **  
-Check out my portfolio: [ayeshaasghar.dev](https://your-portfolio-link.com)
+🔗 **[Visit My Portfolio](https://ayeshhdeveloper55.github.io/My--personal-portfolio/)**
+
 
 2.## 📄 Resume📄 **
 🔗 **[Download My Resume](https://ayeshhdeveloper55.github.io/MY-Personal-Resume/)**
