@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Ayesha Asghar  
-[![Ayesha Asghar Banner](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/Images/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)](https://github.com/ayeshhdeveloper55)
+![Banner](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/94134df6d9bba55b5ff801b50e940c8b653678d6/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+
 
 I am a passionate **Frontend Developer** currently training at **SMIT**. I love building web applications, solving complex problems, and learning new technologies. 🚀
 
