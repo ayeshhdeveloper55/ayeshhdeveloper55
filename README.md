@@ -47,9 +47,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 <img src="IMG-20250117-WA0023.jpg" width="250">
 
 ### 🏆 Certificate of Completion - Information Technology (Creative-IT)  
-<img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/path-to-your-image.jpg" width="250">
-
-
+  <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/49157e7750bca773c78f824ee1b1859f16c54cf7/WhatsApp%20Image%202025-01-26%20at%2015.26.11_cc48c9d9.jpg" width="250">
 ---
 
 📌 *These certificates showcase my skills and learning progress in web development and IT!* 🚀
