@@ -34,21 +34,21 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 
 
 ## 📜 Certificates
-
 ### 🏆 Certificate of Achievement - CSS Basics
-![CSS Basics Certificate](IMG-20250117-WA0020.jpg)
+<img src="IMG-20250117-WA0020.jpg" width="250">
 
 ### 🏆 Certificate of Achievement - HTML Basics
-![HTML Basics Certificate](IMG-20250117-WA0019.jpg)
+<img src="IMG-20250117-WA0019.jpg" width="250">
 
 ### 🏆 Internship Certificate - YoungDev Interns
-![YoungDev Internship Certificate](fullstack.PNG)
+<img src="fullstack.PNG" width="250">
 
 ### 🏆 Certificate of Achievement - CSS Selector Quiz
-![CSS Selector Quiz Certificate](IMG-20250117-WA0023.jpg)
+<img src="IMG-20250117-WA0023.jpg" width="250">
 
 ### 🏆 Certificate of Completion - Information Technology (Creative-IT)  
-![Creative-IT Certificate](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/path-to-your-image.jpg)
+<img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/path-to-your-image.jpg" width="250">
+
 
 ---
 
