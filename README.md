@@ -25,7 +25,6 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 - **Email:** [ayeshh7766@gmail.com](mailto:ayeshh7766@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923141303029)
-(https://whatsapp.com/channel/0029Vb061gbFy727IHZjUe0G)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-asghar-547480332)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570007683949)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayesh_h7766/?__pwa=1#)
