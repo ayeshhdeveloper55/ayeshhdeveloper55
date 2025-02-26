@@ -52,9 +52,11 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 ---
 
 🏆 Courses I Teach
+br
 [![HTML Course](https://img.shields.io/badge/HTML%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLYdz1L8H6rPLIG0VTMsp3vofhiQA73Rhx)
 
-📄 [Download HTML Course Notes](https://github.com/ayeshhdeveloper55/Web-Development/raw/main/HTML_Course_Notes.pdf)
+📄 [Download HTML Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/html%20notes.pdf)
+
 
 
 
