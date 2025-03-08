@@ -55,6 +55,7 @@ br
 [![HTML Course](https://img.shields.io/badge/HTML%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLYdz1L8H6rPLIG0VTMsp3vofhiQA73Rhx)
 
 📄 [Download HTML Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/html%20notes.pdf)
+📄 [Download CSS Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/html%20notes.pdf)
 
 
 
