@@ -55,11 +55,7 @@ br
 [![HTML Course](https://img.shields.io/badge/HTML%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLYdz1L8H6rPLIG0VTMsp3vofhiQA73Rhx)
 
 📄 [Download HTML Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/html%20notes.pdf)
-📄 [Download CSS Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/commit/39478db4cb1485413c1c84434a881424324e6631#diff-2115b320c7ede4c74ac869432101ed7796b9deae115371574fb0d5535e4c5897)
-)
-
-
-
+📄 [Download File](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/39478db4cb1485413c1c84434a881424324e6631/your-file-name.extension)
 
 📌 *These certificates showcase my skills and learning progress in web development and IT!* 🚀
 
