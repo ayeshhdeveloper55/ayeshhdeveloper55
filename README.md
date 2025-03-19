@@ -58,6 +58,8 @@ br
 
 📄 [Download HTML Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/html%20notes.pdf)
 📄 [Download CSS Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/css%20notes%20my.pdf)
+📄 [Tailwind CSS Cheat Sheet](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/blob/main/Tailwind%20CSS%20Cheat%20Sheet.pdf)
+
 
 
 📌 *These certificates showcase my skills and learning progress in web development and IT!* 🚀
