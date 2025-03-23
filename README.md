@@ -50,7 +50,8 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 <img src="IMG-20250117-WA0023.jpg" width="250">
 
 ### 🏆 Certificate of Achievement - Html5 Quiz
-<img src="IMG-20250117-WA0023.jpg" width="250">
+<img src="![image](https://github.com/user-attachments/assets/c7d43b25-cfc0-47a6-8ed0-824d0cd540b4)
+" width="250">
 ### 🏆 Certificate of Achievement - CSS3 Quiz
 <img src="IMG-20250117-WA0023.jpg" width="250">
 
