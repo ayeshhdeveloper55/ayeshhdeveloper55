@@ -32,7 +32,9 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayesh_h7766/?__pwa=1#)
 [![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/ayeshaasghar441/edit)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AyeshasDevHub)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cd2d8e393f88db27?viewMode=1)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cd2d8e393f88db27?mp_source=share)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ayesha-asghars-projects)
+
 
 
 
