@@ -61,6 +61,11 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 
 ### 🏆 Certificate of Completion - Information Technology (Creative-IT)  
   <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/49157e7750bca773c78f824ee1b1859f16c54cf7/WhatsApp%20Image%202025-01-26%20at%2015.26.11_cc48c9d9.jpg" width="250">
+  
+  ### 🏆 Certificate of Achievement - INTRODUCTION TO PRAGRAMMING
+  FROM : SMIT (SAYLANI MASS IT)
+  <img src="" width="250">
+
 ---
 
 🏆 Courses I Teach
@@ -68,7 +73,9 @@ br
 [![HTML Course](https://img.shields.io/badge/HTML%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLYdz1L8H6rPLIG0VTMsp3vofhiQA73Rhx)
 
 📄 [Download HTML Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/html%20notes.pdf)
+<br>
 📄 [Download CSS Notes](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/css%20notes%20my.pdf)
+<br>
 📄 [Tailwind CSS Cheat Sheet](https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/blob/main/Tailwind%20CSS%20Cheat%20Sheet.pdf)
 
 
