@@ -27,7 +27,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
   ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshhdeveloper55&show_icons=true&theme=radical)
 ### 🔥 GitHub Streak Stats
 
-<p align="center">
+<p >
   <img src="https://streak-stats.demolab.com/?user=ayeshhdeveloper55&theme=radical&hide_border=true" alt="ayeshhdeveloper55's streak"/>
 </p>
 
@@ -72,7 +72,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
   
   ### 🏆 Certificate of Achievement - INTRODUCTION TO PRAGRAMMING
   FROM : SMIT (SAYLANI MASS IT)
-  <img src="" width="250">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/blob/main/331879-Aysha%20Asghar%20(2).pdf" width="250">
 
 ---
 
