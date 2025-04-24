@@ -3,6 +3,10 @@
 
 
 I am a passionate **Frontend Developer** currently training at **SMIT**. I love building web applications, solving complex problems, and learning new technologies. 🚀
+<br>
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=ayeshhdeveloper55&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 ### Skills:
