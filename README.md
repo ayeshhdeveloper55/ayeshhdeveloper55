@@ -22,6 +22,10 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 - **GitHub Desktop**
 - **Visual Studio Code**
 - **Canva**
+  ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshhdeveloper55&show_icons=true&theme=radical)
+![Ayesha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayeshhdeveloper55&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshhdeveloper55&layout=compact&theme=radical)
+
 
 ## Contact Me
 - **Email:** [ayeshh7766@gmail.com](mailto:ayeshh7766@gmail.com)
