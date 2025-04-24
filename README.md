@@ -30,7 +30,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 <p >
   <img src="https://streak-stats.demolab.com/?user=ayeshhdeveloper55&theme=radical&hide_border=true" alt="ayeshhdeveloper55's streak"/>
 </p>
-
+### 🔥 GitHub languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshhdeveloper55&layout=compact&theme=radical)
 
