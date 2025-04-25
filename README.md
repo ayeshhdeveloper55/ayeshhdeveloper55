@@ -21,7 +21,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 
 ### Tools
 
-- **Git**
+- **Git**  
 - **GitHub**
 - **GitHub Desktop**
 - **Visual Studio Code**
@@ -76,7 +76,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
   
   ### 🏆 Certificate of Achievement - INTRODUCTION TO PRAGRAMMING
   FROM : SMIT (SAYLANI MASS IT)
-  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/blob/main/331879-Aysha%20Asghar%20(2).pdf" width="250">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/commit/68d6679cdec29c6eac05877a3d90865d04a1111e" width="250">
 
 ---
 
