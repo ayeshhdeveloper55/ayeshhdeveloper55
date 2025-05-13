@@ -5,7 +5,16 @@
 I am a passionate **Frontend Developer** currently training at **SMIT**. I love building web applications, solving complex problems, and learning new technologies. 🚀
 <br>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=ayeshhdeveloper55&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
+| **Profile Views** | **Repositories** | **Commits** | **Followers** | **Experience** |
+|------------------|-----------------|------------|--------------|----------------|
+| ![Profile Views](https://komarev.com/ghpvc/?username=ayeshhdeveloper55&label=Profile%20views&color=0e75b6&style=flat) | ![Repositories](https://img.shields.io/badge/Repositories-A%20Ultra%20Repo%20Creator%2065pt-green) | ![Commits](https://img.shields.io/badge/Commits-B%20Middle%20Committer%2097pt-blue) | ![Followers](https://img.shields.io/badge/Followers-C%20First%20Friend%203pt-yellow) | ![Experience](https://img.shields.io/badge/Experience-C%20Newbie%203pt-red) |
+
+| **Stars** | **Issues** | **Pull Requests** | **Reviews** |
+|-----------|------------|------------------|-------------|
+| ![Stars](https://img.shields.io/badge/Stars-Unknown-ccc) | ![Issues](https://img.shields.io/badge/Issues-Unknown-ccc) | ![PullRequest](https://img.shields.io/badge/Pull%20Request-Unknown-ccc) | ![Reviews](https://img.shields.io/badge/Reviews-Unknown-ccc) |
 
 
 ---
