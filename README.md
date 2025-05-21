@@ -54,6 +54,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 
 ## Contact Me
 - **Email:**
+- [ayeshh7766@gmail.com](mailto:ayeshh7766@gmail.com)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshh7766@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923141303029)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572761411216)
