@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Ayesha Asghar  
-![Banner](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/94134df6d9bba55b5ff801b50e940c8b653678d6/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+![Banner]
 <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width:100%;" />
 
 
@@ -25,6 +25,10 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+
 
 
 
@@ -52,13 +56,13 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 - **Email:** [ayeshh7766@gmail.com](mailto:ayeshh7766@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923141303029)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-asghar-547480332)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572761411216)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayesh_h7766/?__pwa=1#)
 [![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/ayeshaasghar441/edit)
-
-
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ayeshh7766)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-asghar-351814331)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.threads.com/@ayesha_dev_hub7766?__pwa=1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AyeshasDevHub)
 
 
 
