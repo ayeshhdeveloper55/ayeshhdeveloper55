@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Ayesha Asghar  
 ![Banner](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/94134df6d9bba55b5ff801b50e940c8b653678d6/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+<img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width:100%;" />
+
 
 
 I am a passionate **Frontend Developer** currently training at **SMIT**. I love building web applications, solving complex problems, and learning new technologies. 🚀
