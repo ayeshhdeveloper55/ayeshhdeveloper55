@@ -90,10 +90,11 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
   
   ### 🏆 Certificate of Achievement - INTRODUCTION TO PRAGRAMMING
   FROM : SMIT (SAYLANI MASS IT)
+  
   <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/blob/main/444.PNG?raw=true" alt="My Image" width="250"/>
-
-    ### 🏆 Certificate of Achievement - FAMHACK COMPELETION 2025
+  ### 🏆 Certificate of Achievement - FAMHACK COMPLETION 2025
   FROM : SMIT (SAYLANI MASS IT)
+  
   
 <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/blob/main/famm.PNG?raw=true" alt="My Banner" width="250"/>
 
