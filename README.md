@@ -1,6 +1,9 @@
 # Hi there! 👋 I'm Ayesha Asghar  
 
-<img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width:100%;" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/aced09e0c1b5fd4f7dd625a5c520287ac4f7a4e7/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" alt="My Banner" width="100%">
+</p>
 
 
 
