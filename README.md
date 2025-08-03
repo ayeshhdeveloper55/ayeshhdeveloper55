@@ -67,25 +67,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AyeshasDevHub)
 [![Netlify Projects](https://img.shields.io/badge/Netlify-Projects-blue?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/ayeshhqueen026/projects)
 [![Vercel Projects](https://img.shields.io/badge/Vercel-Projects-black?style=for-the-badge&logo=vercel)](https://vercel.com/ayesha-asghars-projects)
-<a href="https://www.fiverr.com/ayeshaasghar441/buying?source=avatar_menu_profile" target="_blank">
-  <img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
-</a>
 
-<a href="https://www.upwork.com/freelancers/~01cd2d8e393f88db27" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
-</a>
-
-<a href="https://www.peopleperhour.com/freelancer/ayesha-asghar-zyaavwzm" target="_blank">
-  <img src="https://img.shields.io/badge/PeoplePerHour-%23FF6600.svg?style=for-the-badge&logo=peopleperhour&logoColor=white" alt="PeoplePerHour">
-</a>
-
-<a href="https://www.behance.net/ayeshaasghar15" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-%23176BFF.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
-</a>
-
-<a href="https://www.freelancer.com/u/ayeshaa325" target="_blank">
-  <img src="https://img.shields.io/badge/Freelancer-%2329B2FE.svg?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer">
-</a>
 
 
 
