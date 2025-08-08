@@ -67,6 +67,7 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AyeshasDevHub)
 [![Netlify Projects](https://img.shields.io/badge/Netlify-Projects-blue?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/ayeshhqueen026/projects)
 [![Vercel Projects](https://img.shields.io/badge/Vercel-Projects-black?style=for-the-badge&logo=vercel)](https://vercel.com/ayesha-asghars-projects)
+[![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/users/ayeshaasghar441/manage_gigs)
 
 
 
