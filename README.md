@@ -122,11 +122,21 @@ br
 ## 🌟 Projects
 1. **Portfolio **  
 🔗 **[Visit My Portfolio](https://ayeshhdeveloper55.github.io/My--personal-portfolio/)**
+<p align="center">
+  <a href="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/bc63d7a4e3bc16fc5fab216d6dd4034620f33bb7/My%20Resume%20(1).pdf" download>
+    <img src="https://img.shields.io/badge/📄_Download%20My%20Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
+
 
 
 2.## 📄 Resume📄 **
 <br>
-🔗 **[Download My Resume](https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/49157e7750bca773c78f824ee1b1859f16c54cf7/cvpic.PNG)**
+<p >
+  <a href="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/bc63d7a4e3bc16fc5fab216d6dd4034620f33bb7/My%20Resume%20(1).pdf" download>
+    <img src="https://img.shields.io/badge/📄_Download%20My%20Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
 
 
 ⭐️ _“Always learning, always growing!”_
