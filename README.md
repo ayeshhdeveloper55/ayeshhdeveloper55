@@ -85,6 +85,12 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/users/ayeshaasghar441/manage_gigs)
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ayeshh7766)
 
+✨ Portfolio (Behance)
+
+Check out my design and completed projects on Behance:
+
+👉 Behance profile: https://www.behance.net/ayeshaasghar15
+
 
 
 
