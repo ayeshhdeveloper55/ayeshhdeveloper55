@@ -87,6 +87,13 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![Vercel Projects](https://img.shields.io/badge/Vercel-Projects-black?style=for-the-badge&logo=vercel)](https://vercel.com/ayesha-asghars-projects)
 [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/users/ayeshaasghar441/manage_gigs)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@ayeshadevhub-00AEEF?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/ayeshadevhub.bsky.social)
+## 🌐 Connect & Order
+
+🚀 Want to get your own professional website or portfolio designed?  
+Visit my official LinkedIn page for details and to place your order 👇  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Page-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/ayesha-dev-hub/)
+
 
 
 ✨ Portfolio (Behance)
