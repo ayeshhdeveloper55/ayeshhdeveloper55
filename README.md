@@ -155,7 +155,7 @@ br
 
 ## 🌟 Projects
 1. **Portfolio **  
-🔗 **[Visit My Portfolio](https://ayeshhdeveloper55.github.io/My--personal-portfolio/)**
+🔗 **[Visit My Portfolio](https://ayeshadevhuvportfolio.netlify.app/)**
 
 
 
