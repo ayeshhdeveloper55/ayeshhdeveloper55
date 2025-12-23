@@ -135,7 +135,20 @@ Check out my design and completed projects on Behance:
   
   
 <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/blob/main/famm.PNG?raw=true" alt="My Banner" width="250"/>
+### 🏆 Certificate of Achievement - Cisco Networking Academy
+  HTML Essentail Certificate
+  <p align="center">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/h.PNG" alt="Certificate" width="100%">
+</p>
+Css Essentail Certificate
+<p align="center">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/c.PNG" alt="Certificate" width="100%">
+</p>
 
+Javascript Essentail Certificate
+<p align="center">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/j.PNG" alt="Certificate" width="100%">
+</p>
 
 ---
 
