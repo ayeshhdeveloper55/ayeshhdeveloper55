@@ -138,16 +138,16 @@ Check out my design and completed projects on Behance:
 ### 🏆 Certificate of Achievement - Cisco Networking Academy
   HTML Essentail Certificate
   <p align="center">
-  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/h.PNG" alt="Certificate" width="100%">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/h.PNG" alt="Certificate" width="250%">
 </p>
 Css Essentail Certificate
 <p align="center">
-  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/c.PNG" alt="Certificate" width="100%">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/c.PNG" alt="Certificate" width="250%">
 </p>
 
 Javascript Essentail Certificate
 <p align="center">
-  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/j.PNG" alt="Certificate" width="100%">
+  <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/j.PNG" alt="Certificate" width="250%">
 </p>
 
 ---
