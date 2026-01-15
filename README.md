@@ -31,6 +31,11 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -89,7 +94,6 @@ I am a passionate **Frontend Developer** currently training at **SMIT**. I love 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AyeshasDevHub)
 [![Netlify Projects](https://img.shields.io/badge/Netlify-Projects-blue?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/ayeshhqueen026/projects)
 [![Vercel Projects](https://img.shields.io/badge/Vercel-Projects-black?style=for-the-badge&logo=vercel)](https://vercel.com/ayesha-asghars-projects)
-[![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/users/ayeshaasghar441/manage_gigs)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@ayeshadevhub-00AEEF?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/ayeshadevhub.bsky.social)
 ## 🌐 Connect & Order
 
