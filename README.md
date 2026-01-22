@@ -153,6 +153,10 @@ Javascript Essentail Certificate
 <p>
   <img src="https://github.com/ayeshhdeveloper55/ayeshhdeveloper55/raw/main/j.PNG" alt="Certificate" width="250">
 </p>
+<p>
+  <img src="https://raw.githubusercontent.com/ayeshhdeveloper55/ayeshhdeveloper55/39a0abadc5af322901d61dbdace5c7d3232828b8/resume.PNG" alt="Resume" width="250">
+</p>
+
 
 ---
 
